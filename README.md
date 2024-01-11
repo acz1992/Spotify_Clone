@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 17.14
+=======
+### NOTE
+When opening a new shell, check node -v, if 18, run source ~/.bashrc and then node -v to check that its defintely 21
 
 ## Getting Started
 
