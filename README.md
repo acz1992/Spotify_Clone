@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-17.14
+17.14 - git push - https://www.youtube.com/watch?v=2aeMRB8LL4o&ab_channel=CodeWithAntonio
 =======
 ### NOTE
 When opening a new shell, check node -v, if 18, run source ~/.bashrc and then node -v to check that its defintely 21
